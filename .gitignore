@@ -3,7 +3,7 @@
 */terraform.tfstate.backup
 */.terraform
 */mykey*
-demo-18b/dev/.terraform/
-demo-18b/prod/.terraform/
-docker-demo-1/docker-demo/
+demo-18b/dev/.terraform
+demo-18b/prod/.terraform
+docker-demo-1/docker-demo
 terraform-modules/
